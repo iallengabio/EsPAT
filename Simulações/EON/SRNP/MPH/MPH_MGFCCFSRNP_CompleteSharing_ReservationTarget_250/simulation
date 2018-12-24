@@ -1,0 +1,22 @@
+{
+"networkType":0,
+"rmlsaType":1,
+"requests":100000,
+"loadPoints":4,
+"replications":10,
+"grooming":"mgfccfsrnp",
+"integratedRmlsa":"completesharing",
+"modulationSelection":"modulationbyqot",
+"regeneratorAssignment":flrra,
+"activeMetrics":
+	{"BlockingProbability":true,
+	 "BandwidthBlockingProbability":true,
+	 "SpectrumUtilization":true,
+	 "SpectrumSizeStatistics":false,
+	 "ExternalFragmentation":false,
+	 "RelativeFragmentation":false,
+	 "TransmittersReceiversRegeneratorsUtilization":true,
+	 "EnergyConsumption":true,
+	 "ModulationUtilization":true,
+	 "ConsumedEnergy":true}
+}
